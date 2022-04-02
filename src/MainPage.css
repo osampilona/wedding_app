@@ -1,0 +1,28 @@
+.mainpage__container {
+  background-color: #ffffe0;
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.mainpage__container-outer-frame {
+  border: 2px solid #808000;
+  height: 90%;
+  width: 90%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+}
+
+.mainpage__container-inner-frame {
+  border: 2px solid #808000;
+  height: 95%;
+  width: 95%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+}
